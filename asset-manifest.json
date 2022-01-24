@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NewsBandar/static/css/main.e94745bc.css",
+    "main.js": "/NewsBandar/static/js/main.a8500134.js",
+    "static/js/787.e7c298fb.chunk.js": "/NewsBandar/static/js/787.e7c298fb.chunk.js",
+    "static/media/Spinner.gif": "/NewsBandar/static/media/Spinner.945dd6d7eef862fb598d.gif",
+    "index.html": "/NewsBandar/index.html",
+    "main.e94745bc.css.map": "/NewsBandar/static/css/main.e94745bc.css.map",
+    "main.a8500134.js.map": "/NewsBandar/static/js/main.a8500134.js.map",
+    "787.e7c298fb.chunk.js.map": "/NewsBandar/static/js/787.e7c298fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e94745bc.css",
+    "static/js/main.a8500134.js"
+  ]
+}
